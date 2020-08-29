@@ -1,4 +1,4 @@
-[DEMO](https://PolishchukViacheslav.github.io/FETemplate/)
+[DEMO](https://PolishchukViacheslav.github.io/CustomCheckBox/)
 
 ##Boilerplate for front-end projects
 
